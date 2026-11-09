@@ -1,6 +1,6 @@
 # Interview Arena
 
-Produto real da DouglasDev para operacao de simulados com painel interativo full stack.
+Produto real da Becker para operacao de simulados com painel interativo full stack.
 
 ## O que este repositorio entrega
 - API Node/Express com validacao de entrada via Zod.
@@ -32,4 +32,4 @@ Produto real da DouglasDev para operacao de simulados com painel interativo full
 - `npm run quality` executa lint + testes + build no backend e frontend.
 
 ## Marca
-DouglasDev
+Becker
