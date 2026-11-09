@@ -8,7 +8,7 @@ import pino from "pino";
 import { z } from "zod";
 
 const projectProfile = {
-  "brand": "DouglasDev",
+  "brand": "Becker",
   "name": "Interview Arena",
   "slug": "interview-arena",
   "tagline": "Treino pratico para entrevistas tecnicas com plano de evolucao.",
@@ -56,7 +56,7 @@ const projectProfile = {
     }
   ]
 } as const;
-const platformBrand = "DouglasDev";
+const platformBrand = "Becker";
 
 type WorkItemStatus = "open" | "done";
 type Priority = "high" | "medium" | "low";
